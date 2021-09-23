@@ -4,7 +4,7 @@
 - 🌱 I'm studying backend development and data 
 - ⚡ Fun fact: Passionate about games and anime
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/GabrielVBandeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvbandeira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
