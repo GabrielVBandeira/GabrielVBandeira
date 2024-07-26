@@ -13,8 +13,8 @@
   <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Gabriel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Gabriel-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/postman/postman-original.svg">
-  <img align="center" alt="Gabriel-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/godot/godot-original.svg">
+  <img align="center" alt="Gabriel-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="Gabriel-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
 </div>
 
 ## 
