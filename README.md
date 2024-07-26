@@ -1,8 +1,11 @@
 ## Hello ! I'm Gabriel Bandeira
 
-- 🔭 I'm currently working with software/web development in Angular, React, C#, .NET
+- ✨ Creating bugs since 2019
+- 🔭 I'm currently working with software/web development in Angular, C#, .NET, Sharepoint
 - 🌱 I'm studying web development and game development
 - ⚡ Fun fact: Passionate about games and anime
+
+<h2 align="left">I code with</h2>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
