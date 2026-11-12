@@ -1,32 +1,13 @@
-## Hello ! I'm Gabriel Bandeira
+<div id="mascote-interativo" align="center">
+  <h3>⚠️ Alimente meu mascote antes de me conhecer para não ter briga!</h3>
 
-- ✨ Creating bugs since 2019
-- 🔭 I'm currently working with software/web development in Angular, C#, .NET, Sharepoint
-- 🌱 I'm studying web development and game development
-- ⚡ Fun fact: Passionate about games and anime
+  <!-- Imagem dinâmica que renderiza o SVG da sua API -->
+  <img src="https://seu-projeto.vercel.app/api/mascot" alt="Mascote do Perfil" width="440" />
 
-<h2 align="left">I code with</h2>
+  <br /><br />
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Gabriel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Gabriel-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="Gabriel-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
+  <!-- Botão que aciona a rota /api/feed e sofre o Redirect 302 de volta para cá -->
+  <a href="https://seu-projeto.vercel.app/api/feed">
+    <img src="https://img.shields.io/badge/🍖_Dar_Petisco_Agora-Alimentar_Mascote-2ea043?style=for-the-badge&logoColor=white" alt="Botão Alimentar Mascote" />
+  </a>
 </div>
-
-## 
-
-📫 How to reach me:
- 
-<a href="https://www.linkedin.com/in/gabriel-bandeira-2329421a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:gabrielvbdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<img src="https://raw.githubusercontent.com/GabrielVbandeira/GabrielVbandeira/output/snake.svg" alt="Snake animation" />
-
-###
