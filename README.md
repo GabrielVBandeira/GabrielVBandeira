@@ -5,7 +5,7 @@
     <img src="https://github-mascot.vercel.app/api/mascot" alt="Mascote do Perfil" width="520" />
   </a>
 
-  <br />
+  <br/>
 
   <a href="https://github-mascot.vercel.app/api/feed"><img src="https://img.shields.io/badge/%E2%98%95_Dar_caf%C3%A9_agora-2ea043?style=for-the-badge" alt="Dar café agora" /></a>
 </div>
@@ -27,12 +27,16 @@ Sou um profissional de tecnologia com quase 6 anos de experiência unindo **Enge
 
 Fora do código e dos backlogs, sou uma pessoa super **extrovertida**, que adora trocar ideias e trabalhar em equipe! No meu tempo livre, você sempre vai me encontrar assistindo **animes**, jogando os mais variados **jogos** ou **praticando esportes**.
 
+---
+
+### 👨‍💻 Const Gabriel:
+
 ```javascript
 const gabriel = {
   pronomes: "ele" | "dele",
   atuacao: ["Analista de Sistemas e Produto", "Desenvolvedor Full-Stack"],
   codigo: [JavaScript, TypeScript, CSharp, SQL, HTML, CSS, SASS],
-  ferramentas: [React, ReactNative, NextJS, NodeJS, Angular, ASPNET, OutSystems, WPF, PowerBI, Fluig, SharePoint],
+  ferramentas: [React, ReactNative, NextJS, NodeJS, Angular, ASPNET, OutSystems, WPF, PowerBI, .NET, SharePoint],
   arquiteturaENuvem: [
     "Clean Code",
     "MVC / MVVM",
@@ -40,7 +44,7 @@ const gabriel = {
     "Design Patterns",
     "Automação Orientada a Eventos",
     "Azure & Containers",
-    "Oracle CMS"
+    "Oracle"
   ],
   produtoEEstrategia: {
     metodologias: ["Scrum", "Kanban", "DoR / DoD"],
