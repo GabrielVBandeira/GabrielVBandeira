@@ -5,14 +5,14 @@
     <img src="https://github-mascot.vercel.app/api/mascot" alt="Mascote do Perfil" width="520" />
   </a>
 
-  <br /><br />
+  <br />
 
   <a href="https://github-mascot.vercel.app/api/feed"><img src="https://img.shields.io/badge/%E2%98%95_Dar_caf%C3%A9_agora-2ea043?style=for-the-badge" alt="Dar café agora" /></a>
 </div>
 
 # Olá, eu sou o Gabriel Bandeira! 👋
 
-**Analista de Sistemas e Produto** | **Desenvolvedor de Software Full-Stack**  
+💻 **Analista de Sistemas e Produto** | **Desenvolvedor de Software Full-Stack**  
 🎓 **MBA em Engenharia de Software** pela [USP/Esalq](https://mbauspesalq.com/)  
 🎮 **Graduado em Jogos Digitais**
 
@@ -21,15 +21,11 @@
 
 ---
 
-### 🚀 Sobre mim
+### ☕ Sobre mim
 
 Sou um profissional de tecnologia com quase 6 anos de experiência unindo **Engenharia de Software** e **Gestão de Produto** — traduzindo necessidades de negócio em arquiteturas escaláveis e produtos digitais de alto impacto.
 
 Fora do código e dos backlogs, sou uma pessoa super **extrovertida**, que adora trocar ideias e trabalhar em equipe! No meu tempo livre, você sempre vai me encontrar assistindo **animes**, jogando os mais variados **jogos** ou **praticando esportes**.
-
----
-
-### ☕ Um pouco mais sobre mim...
 
 ```javascript
 const gabriel = {
@@ -53,3 +49,5 @@ const gabriel = {
   },
   hobbies: ["Animes 🎌", "Games 🎮", "Esportes 🏐🚴‍♂️", "Café ☕"]
 };
+```
+See you space Cowboy... 🚀
