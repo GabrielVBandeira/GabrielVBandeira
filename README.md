@@ -1,11 +1,13 @@
 <div id="mascote-interativo" align="center">
-  <h3>⚠️ Alimente meu mascote antes de me conhecer para não ter briga!</h3>
+  <h3>☕ Dê um café para o mascote antes de nos conhecermos</h3>
 
-  <img src="https://github-mascot.vercel.app/api/mascot" alt="Mascote do Perfil" width="440" />
+  <a href="#mascote-interativo">
+    <img src="https://github-mascot.vercel.app/api/mascot" alt="Mascote do Perfil" width="520" />
+  </a>
 
   <br /><br />
 
   <a href="https://github-mascot.vercel.app/api/feed">
-    <img src="https://img.shields.io/badge/%F0%9F%8D%96_Dar_Petisco_Agora-Alimentar_Mascote-2ea043?style=for-the-badge" alt="Botão Alimentar Mascote" />
+    <img src="https://img.shields.io/badge/%E2%98%95_Dar_caf%C3%A9_agora-2ea043?style=for-the-badge" alt="Dar café agora" />
   </a>
 </div>
